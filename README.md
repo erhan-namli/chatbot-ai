@@ -11,6 +11,12 @@ This is a project that I have done to help other peoples who want to make a simi
 
 - Deploy the bot on the Heroku server to give life our bot.
 
+
+## Working Principle
+
+
+
+
 ## Libraries
 
 - Pandas : https://pandas.pydata.org/
