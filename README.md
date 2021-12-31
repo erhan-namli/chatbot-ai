@@ -1,6 +1,6 @@
 # chatbot-ai
 
-This is a project that I have done to help other peoples who want to make a similar project.
+This is a project that I have done to help other peoples who want to make a similar project. You can use my machine learning model if you want, it can be embeddable everywhere, you can use this chatbot in marketing, advertising or you can use it discord like me.
 
 
 ## Roadmap
@@ -28,5 +28,7 @@ This is a project that I have done to help other peoples who want to make a simi
 
 
 ## Usage/Examples
+
+
 
 
