@@ -29,6 +29,8 @@ This is a project that I have done to help other peoples who want to make a simi
 
 ## Usage/Examples
 
+- If you want to add new topics on the bot, just you need to add topics on text.py then the bot can predict the new topic.
+- If you want to add new responses which belongs to your topic you must add new list to text.py which name is your topic, then you can take that responses from your bot.
 
 
 
